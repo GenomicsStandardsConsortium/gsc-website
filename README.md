@@ -1,2 +1,2 @@
 # gsc-website
-The web site of the Genomics Standards Consortium
+This repo is archived. It is replaced by https://github.com/GenomicsStandardsConsortium/gensc.github.io.
